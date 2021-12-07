@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(243, 169, 169);
+    font-family: 'Verdana', sans-serif;
+}
+.blue {
+    color: rgb(29, 29, 139);
+}
+.greenbg {
+    background-color: rgb(88, 209, 88);
+}
+.med {
+    font-size: 24px;
+}
+.big {
+    font-size: 36px;
+}
